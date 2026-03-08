@@ -1,0 +1,6 @@
+streamlit
+pymysql
+pandas
+python-dotenv
+playwright
+openpyxl
