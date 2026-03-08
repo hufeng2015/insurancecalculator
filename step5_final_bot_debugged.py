@@ -380,7 +380,7 @@ def run_batch_automation():
         print(f"   ❌ 失败: {fail_count} 单")
         print(f"   ⏭️  跳过: {skip_count} 单")
         print(f"   📊 总计: {len(df)} 单")
-        print(f"\n您的 RPA 机器人已完成使命！")
+        print(f"\n您的 泰康车险AI员工 已完成使命！")
         
         page.pause()  # 跑完后暂停一下，方便您确认成果
 
